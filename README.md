@@ -1,4 +1,3 @@
 # ML
-All notebook's in learning ML
-Directories starting with Week are the courses on coursera.
-Other directories are specific to the category.
+Notebook's that I've created in my ML journey
+Most of the examples are from Hands-on Machine Learning with Scikit-Learn and TensorFlow
